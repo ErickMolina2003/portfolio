@@ -1,0 +1,40 @@
+.header-section {
+    width: 100%;
+    padding: 2rem;
+}
+
+.major-title {
+    color: #ccf381;
+}
+
+.major-description {
+    max-width: 25rem;
+}
+
+li {
+    text-decoration: none;
+    list-style: none;
+    max-width: 15rem;
+}
+
+.avatar-container {
+    width: 15rem;
+    height: 22rem;
+    display: block;
+    background-color: #fff;
+    background-size: cover;
+    background-position: center center;
+    background-image: url('../../assets/yo.jpg');
+}
+
+.avatar-bg-container {
+    margin: 0;
+    z-index: 1;
+    width: 23.334em;
+    height: 24.67em;
+    position: relative;
+    border: 0.115rem solid #fff;
+    background-size: cover;
+    background-position: center center;
+    background-image: url('../../assets/avatar-bg.svg');
+}

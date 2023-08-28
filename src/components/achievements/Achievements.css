@@ -1,0 +1,27 @@
+.list-item {
+    color: #3d155f;
+}
+
+.icon-list {
+    color: #dd8d19;
+}
+
+.achievement-title {
+    color: #4831d4;
+}
+
+.achievement-description {
+    max-width: 20rem;
+    color: #3d155f;
+    text-align: justify;
+}
+
+.avatar-achievement-container {
+    width: 15rem;
+    height: 15rem;
+    display: block;
+    background-color: #fff;
+    background-size: cover;
+    background-position-x: center;
+    background-image: url('../../assets/yo-3.png');
+}

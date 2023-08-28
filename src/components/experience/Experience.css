@@ -1,0 +1,18 @@
+.experience-title {
+    color: #ccf381;
+}
+
+.experience-description {
+    max-width: 25rem;
+    text-align: justify;
+}
+
+.experience-img {
+    width: 25rem;
+    height: 25rem;
+    display: block;
+    background-color: #fff;
+    background-size: cover;
+    background-position-x: center;
+    background-image: url('../../assets/experience.svg');
+}
